@@ -447,23 +447,7 @@ body {
   color: var(--text-muted);
 }
 
-/* Article card link overlay */
-.article-card-link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 1;
-}
 
-.article-card .article-footer,
-.article-card .article-header,
-.article-card .article-title,
-.article-card .article-desc {
-  position: relative;
-  z-index: 2;
-}
 
 /* About Section */
 .about-section {

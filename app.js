@@ -346,14 +346,13 @@ function renderArticles(category) {
           ${article.stars ? `<span class="article-meta">⭐ ${formatNumber(article.stars)}</span>` : ''}
           ${article.points ? `<span class="article-meta">▲ ${article.points}</span>` : ''}
         </div>
-        <span class="article-link">
+        <a href="${article.url}" target="_blank" rel="noopener" class="article-link">
           阅读全文
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M5 12h14M12 5l7 7-7 7"/>
           </svg>
-        </span>
+        </a>
       </div>
-      <a href="${article.url}" target="_blank" rel="noopener" class="article-card-link" aria-label="阅读全文"></a>
     </article>
   `).join('');
 
