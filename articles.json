@@ -1,0 +1,333 @@
+{
+  "articles": [
+    {
+      "id": "fb-1",
+      "title": "AI Agent 进入 L3 自治时代",
+      "desc": "【人工智能】行业彻底告别问答式被动大模型，进入主动规划、自主执行、长期记忆、多智能体协同的 L3 自治时代。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006",
+      "featured": true
+    },
+    {
+      "id": "fb-2",
+      "title": "统一原生多模态大模型发布",
+      "desc": "【人工智能】GPT-5.2 / Gemini 3 / Claude 3.5 统一基座模型发布，全部模态共享一套底层编码器。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006",
+      "featured": true
+    },
+    {
+      "id": "fb-3",
+      "title": "华为 Atlas 950 超节点发布",
+      "desc": "【云计算】华为 Atlas 950 超节点单柜 64 卡，最大扩展 8192 张 NPU，总算力大幅领先海外方案。",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006",
+      "featured": true
+    },
+    {
+      "id": "fb-4",
+      "title": "具身智能量产元年开启",
+      "desc": "【人工智能】2026 年为人形机器人量产元年，国内全年产量有望突破 10 万台。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-5",
+      "title": "端侧原生离线 AI 成为消费级卖点",
+      "desc": "【人工智能】2026 消费电子核心卖点是不上云、本地运行大模型。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-6",
+      "title": "AI Coding 全栈开发智能体",
+      "desc": "【DevOps】GitHub Copilot 新增图像/PDF 识图写代码，程序员效率提升 50% 以上。",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-7",
+      "title": "绿色低碳 AI 能碳智算中枢",
+      "desc": "【云计算】低功耗近存芯片、液冷集群降低数据中心能耗，实现可持续 AI 发展。",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-8",
+      "title": "WAIC 2026 世界人工智能大会",
+      "desc": "【人工智能】2026 世界人工智能大会将于 7 月在上海举办，超 300 款产品全球首发。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "头条新闻",
+      "date": "2026-07-16",
+      "url": "https://m.toutiao.com/group/7659698839352115753/"
+    },
+    {
+      "id": "fb-9",
+      "title": "云计算算力订单加码景气升温",
+      "desc": "【云计算】云计算成为大模型训练、AI Agent 运行的核心基础设施，算力订单加码。",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "头条新闻",
+      "date": "2026-07-16",
+      "url": "https://m.toutiao.com/group/7660126621034086921/"
+    },
+    {
+      "id": "fb-10",
+      "title": "无标注自监督数据生成突破",
+      "desc": "【人工智能】AI 自动生成仿真训练数据，无需人工标注，解决医疗影像稀缺痛点。",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-11",
+      "title": "Token 工厂革新算力商业模式",
+      "desc": "【云计算】算力厂商告别按算力时长收费，改为按 AI 产出 Token 计价。",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "fb-12",
+      "title": "AI 芯片三大路线并行发展",
+      "desc": "【云计算】近存计算 3D 堆叠芯片成为颠覆性架构，英伟达、国产 NPU、自研芯片三足鼎立。",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "51CTO",
+      "date": "2026-07-16",
+      "url": "https://blog.51cto.com/u_10819805/14749006"
+    },
+    {
+      "id": "gh-1103012935",
+      "title": "openclaw",
+      "desc": "【人工智能】Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-16",
+      "url": "https://github.com/openclaw/openclaw",
+      "stars": 383094
+    },
+    {
+      "id": "gh-1154225023",
+      "title": "seatunnel-web",
+      "desc": "【前端开发】Making Apache SeaTunnel easier to use.",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-16",
+      "url": "https://github.com/weifuwan/seatunnel-web",
+      "stars": 1406
+    },
+    {
+      "id": "gh-1024554267",
+      "title": "hermes-agent",
+      "desc": "【人工智能】The agent that grows with you",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Python",
+      "date": "2026-07-16",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars": 215682
+    },
+    {
+      "id": "gh-599547518",
+      "title": "vllm",
+      "desc": "【人工智能】A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Python",
+      "date": "2026-07-16",
+      "url": "https://github.com/vllm-project/vllm",
+      "stars": 86395
+    },
+    {
+      "id": "gh-658753624",
+      "title": "packages",
+      "desc": "【DevOps】Packages for Typst.",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Rust",
+      "date": "2026-07-16",
+      "url": "https://github.com/typst/packages",
+      "stars": 997
+    },
+    {
+      "id": "gh-1135492298",
+      "title": "cockpit-tools",
+      "desc": "【人工智能】 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Rust",
+      "date": "2026-07-16",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "stars": 13581
+    },
+    {
+      "id": "gh-38812664",
+      "title": "skipper",
+      "desc": "【云计算】An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "GitHub · Go",
+      "date": "2026-07-16",
+      "url": "https://github.com/zalando/skipper",
+      "stars": 3298
+    },
+    {
+      "id": "gh-43723161",
+      "title": "helm",
+      "desc": "【云计算】The Kubernetes Package Manager",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "GitHub · Go",
+      "date": "2026-07-16",
+      "url": "https://github.com/helm/helm",
+      "stars": 30013
+    },
+    {
+      "id": "gh-4585500",
+      "title": "cloudcmd",
+      "desc": "【前端开发】✨☁️📁✨ Cloud Commander file manager for the web with console and editor.",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-16",
+      "url": "https://github.com/coderaiser/cloudcmd",
+      "stars": 2019
+    },
+    {
+      "id": "gh-512532105",
+      "title": "OldTwitter",
+      "desc": "【DevOps】Extension to return old Twitter layout from 2015 / 2018.",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-16",
+      "url": "https://github.com/dimdenGD/OldTwitter",
+      "stars": 2596
+    },
+    {
+      "id": "gh-668199241",
+      "title": "crm",
+      "desc": "【DevOps】Fully featured, open source CRM",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Vue",
+      "date": "2026-07-16",
+      "url": "https://github.com/frappe/crm",
+      "stars": 2971
+    },
+    {
+      "id": "gh-86272311",
+      "title": "kitsu",
+      "desc": "【DevOps】Collaboration Platform for Animation and VFX Productions",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Vue",
+      "date": "2026-07-16",
+      "url": "https://github.com/cgwire/kitsu",
+      "stars": 666
+    },
+    {
+      "id": "hn-48924912",
+      "title": "Inkling: Our Open-Weights Model",
+      "desc": "【人工智能】Hacker News 热门讨论：Inkling: Our Open-Weights Model",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
+      "date": "2026-07-15",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "points": 962,
+      "comments": 239
+    },
+    {
+      "id": "hn-48915953",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "desc": "【前端开发】Hacker News 热门讨论：Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "Hacker News",
+      "date": "2026-07-15",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "points": 443,
+      "comments": 246
+    },
+    {
+      "id": "hn-48926590",
+      "title": "Grok Build is open source",
+      "desc": "【前端开发】Hacker News 热门讨论：Grok Build is open source",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "Hacker News",
+      "date": "2026-07-15",
+      "url": "https://github.com/xai-org/grok-build",
+      "points": 435,
+      "comments": 482
+    },
+    {
+      "id": "hn-48930454",
+      "title": "The lost joy of music piracy",
+      "desc": "【DevOps】Hacker News 热门讨论：The lost joy of music piracy",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "points": 293,
+      "comments": 154
+    },
+    {
+      "id": "hn-48922434",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "desc": "【DevOps】Hacker News 热门讨论：Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-15",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "points": 286,
+      "comments": 187
+    },
+    {
+      "id": "hn-48928135",
+      "title": "SQLite should have (Rust-style) editions",
+      "desc": "【后端架构】Hacker News 热门讨论：SQLite should have (Rust-style) editions",
+      "category": "backend",
+      "categoryLabel": "后端架构",
+      "source": "Hacker News",
+      "date": "2026-07-15",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "points": 266,
+      "comments": 105
+    }
+  ],
+  "updatedAt": "2026-07-16T09:28:56.968Z",
+  "totalCount": 30
+}

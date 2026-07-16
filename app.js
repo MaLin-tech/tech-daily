@@ -96,29 +96,22 @@ function renderDate() {
   currentDateEl.textContent = now.toLocaleDateString('zh-CN', options);
 }
 
-// Fetch articles from multiple sources
-// Worker API URL - replace with your actual worker URL after deployment
-const WORKER_API_URL = 'https://tech-daily-api.your-subdomain.workers.dev/api/articles';
-
+// Fetch articles from locally generated articles.json
 async function fetchArticles() {
   showLoading();
 
   try {
-    // Try Cloudflare Worker API first
-    const response = await fetch(WORKER_API_URL, {
-      method: 'GET',
-      headers: { 'Accept': 'application/json' }
-    });
+    // Read from locally generated articles.json (updated by GitHub Actions daily)
+    const response = await fetch('./articles.json');
 
     if (response.ok) {
       const data = await response.json();
       allArticles = data.articles || [];
     } else {
-      // Fallback to local data if Worker fails
-      throw new Error('Worker API failed');
+      throw new Error('Failed to load articles.json');
     }
   } catch (error) {
-    console.error('Worker API error:', error);
+    console.error('Failed to load articles.json:', error);
     console.log('Using fallback data...');
     allArticles = getFallbackArticles();
   }
