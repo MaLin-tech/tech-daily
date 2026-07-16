@@ -97,126 +97,40 @@ function renderDate() {
 }
 
 // Fetch articles from multiple sources
+// Worker API URL - replace with your actual worker URL after deployment
+const WORKER_API_URL = 'https://tech-daily-api.your-subdomain.workers.dev/api/articles';
+
 async function fetchArticles() {
   showLoading();
 
   try {
-    const [githubData, hnData] = await Promise.allSettled([
-      fetchGitHubTrending(),
-      fetchHackerNews()
-    ]);
+    // Try Cloudflare Worker API first
+    const response = await fetch(WORKER_API_URL, {
+      method: 'GET',
+      headers: { 'Accept': 'application/json' }
+    });
 
-    let articles = [];
-
-    // Add fallback Chinese articles first (as featured content)
-    const fallback = getFallbackArticles();
-    articles.push(...fallback);
-
-    if (githubData.status === 'fulfilled') {
-      articles.push(...githubData.value);
+    if (response.ok) {
+      const data = await response.json();
+      allArticles = data.articles || [];
+    } else {
+      // Fallback to local data if Worker fails
+      throw new Error('Worker API failed');
     }
-
-    if (hnData.status === 'fulfilled') {
-      articles.push(...hnData.value);
-    }
-
-    allArticles = articles;
-    displayCount = 6;
-
-    statCountEl.textContent = allArticles.length;
-    renderFeatured();
-    renderArticles(currentCategory);
-    showArticles();
   } catch (error) {
-    console.error('Fetch error:', error);
+    console.error('Worker API error:', error);
+    console.log('Using fallback data...');
     allArticles = getFallbackArticles();
-    displayCount = 6;
-    statCountEl.textContent = allArticles.length;
-    renderFeatured();
-    renderArticles(currentCategory);
-    showArticles();
   }
+
+  displayCount = 6;
+  statCountEl.textContent = allArticles.length;
+  renderFeatured();
+  renderArticles(currentCategory);
+  showArticles();
 }
 
 // Fetch GitHub trending
-async function fetchGitHubTrending() {
-  const languages = [
-    { lang: 'typescript', zh: 'TypeScript' },
-    { lang: 'python', zh: 'Python' },
-    { lang: 'rust', zh: 'Rust' },
-    { lang: 'go', zh: 'Go' },
-    { lang: 'javascript', zh: 'JavaScript' },
-    { lang: 'vue', zh: 'Vue' }
-  ];
-
-  const articles = [];
-
-  for (const item of languages) {
-    try {
-      const response = await fetch(
-        `https://api.github.com/search/repositories?q=stars:>500+language:${item.lang}&sort=updated&order=desc&per_page=2`,
-        { headers: { 'Accept': 'application/vnd.github.v3+json' } }
-      );
-      if (!response.ok) continue;
-      const data = await response.json();
-
-      for (const repo of data.items || []) {
-        const cat = classifyArticle(repo.name, repo.description || '');
-        articles.push({
-          id: `gh-${repo.id}`,
-          title: repo.name,
-          desc: generateChineseDesc(cat, repo.name, repo.description),
-          originalDesc: repo.description || '',
-          category: cat,
-          categoryLabel: categoryLabels[cat],
-          source: `GitHub · ${item.zh}`,
-          date: repo.updated_at ? repo.updated_at.split('T')[0] : new Date().toISOString().split('T')[0],
-          url: repo.html_url,
-          stars: repo.stargazers_count || 0,
-          lang: 'en'
-        });
-      }
-    } catch (e) {
-      console.warn('GitHub API error:', e);
-    }
-  }
-
-  return articles;
-}
-
-// Fetch Hacker News
-async function fetchHackerNews() {
-  try {
-    const response = await fetch('https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=10');
-    if (!response.ok) return [];
-    const data = await response.json();
-    const articles = [];
-
-    for (const hit of data.hits || []) {
-      const cat = classifyArticle(hit.title, '');
-      articles.push({
-        id: `hn-${hit.objectID}`,
-        title: hit.title,
-        desc: `【${categoryLabels[cat]}】Hacker News 热门讨论：${hit.title}`,
-        originalDesc: hit.title,
-        category: cat,
-        categoryLabel: categoryLabels[cat],
-        source: 'Hacker News',
-        date: hit.created_at ? hit.created_at.split('T')[0] : new Date().toISOString().split('T')[0],
-        url: hit.url || `https://news.ycombinator.com/item?id=${hit.objectID}`,
-        points: hit.points || 0,
-        comments: hit.num_comments || 0,
-        lang: 'en'
-      });
-    }
-
-    return articles;
-  } catch (e) {
-    console.warn('HN API error:', e);
-    return [];
-  }
-}
-
 // Fallback Chinese articles
 function getFallbackArticles() {
   return [
