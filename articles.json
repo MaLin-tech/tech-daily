@@ -7,7 +7,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -18,7 +18,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -29,7 +29,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -40,7 +40,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -50,7 +50,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -60,7 +60,7 @@
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -70,7 +70,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -80,7 +80,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "头条新闻",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://m.toutiao.com/group/7659698839352115753/"
     },
     {
@@ -90,7 +90,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "头条新闻",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://m.toutiao.com/group/7660126621034086921/"
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -110,7 +110,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -120,214 +120,214 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
-      "id": "gh-1103012935",
-      "title": "openclaw",
-      "desc": "【人工智能】Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "id": "gh-1152424073",
+      "title": "vellum-assistant",
+      "desc": "【人工智能】An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · TypeScript",
-      "date": "2026-07-16",
-      "url": "https://github.com/openclaw/openclaw",
-      "stars": 383094
+      "date": "2026-07-17",
+      "url": "https://github.com/vellum-ai/vellum-assistant",
+      "stars": 892
     },
     {
-      "id": "gh-1154225023",
-      "title": "seatunnel-web",
-      "desc": "【前端开发】Making Apache SeaTunnel easier to use.",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
+      "id": "gh-891166919",
+      "title": "gt",
+      "desc": "【DevOps】Full-stack localization for every framework",
+      "category": "devops",
+      "categoryLabel": "DevOps",
       "source": "GitHub · TypeScript",
-      "date": "2026-07-16",
-      "url": "https://github.com/weifuwan/seatunnel-web",
-      "stars": 1406
+      "date": "2026-07-17",
+      "url": "https://github.com/generaltranslation/gt",
+      "stars": 986
     },
     {
-      "id": "gh-1024554267",
-      "title": "hermes-agent",
-      "desc": "【人工智能】The agent that grows with you",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Python",
-      "date": "2026-07-16",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 215682
-    },
-    {
-      "id": "gh-599547518",
-      "title": "vllm",
-      "desc": "【人工智能】A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Python",
-      "date": "2026-07-16",
-      "url": "https://github.com/vllm-project/vllm",
-      "stars": 86395
-    },
-    {
-      "id": "gh-658753624",
-      "title": "packages",
-      "desc": "【DevOps】Packages for Typst.",
+      "id": "gh-131925641",
+      "title": "PipelineC",
+      "desc": "【DevOps】A C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language co...",
       "category": "devops",
       "categoryLabel": "DevOps",
-      "source": "GitHub · Rust",
-      "date": "2026-07-16",
-      "url": "https://github.com/typst/packages",
-      "stars": 997
+      "source": "GitHub · Python",
+      "date": "2026-07-17",
+      "url": "https://github.com/JulianKemmerer/PipelineC",
+      "stars": 737
     },
     {
-      "id": "gh-1135492298",
-      "title": "cockpit-tools",
-      "desc": "【人工智能】 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配...",
+      "id": "gh-477570603",
+      "title": "awesome-game-security",
+      "desc": "【网络安全】awesome game security [Welcome to PR]",
+      "category": "security",
+      "categoryLabel": "网络安全",
+      "source": "GitHub · Python",
+      "date": "2026-07-17",
+      "url": "https://github.com/gmh5225/awesome-game-security",
+      "stars": 3163
+    },
+    {
+      "id": "gh-508763694",
+      "title": "moq",
+      "desc": "【前端开发】Media over QUIC: Real-time latency at massive scale",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · Rust",
+      "date": "2026-07-17",
+      "url": "https://github.com/moq-dev/moq",
+      "stars": 1403
+    },
+    {
+      "id": "gh-1169620429",
+      "title": "yoyo-evolve",
+      "desc": "【人工智能】A coding agent that evolves its own source, in public — 200 lines of Rust on day one, every commit since agent-written a...",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · Rust",
-      "date": "2026-07-16",
-      "url": "https://github.com/jlcodes99/cockpit-tools",
-      "stars": 13581
+      "date": "2026-07-17",
+      "url": "https://github.com/yologdev/yoyo-evolve",
+      "stars": 1846
     },
     {
-      "id": "gh-38812664",
-      "title": "skipper",
-      "desc": "【云计算】An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress",
-      "category": "cloud",
-      "categoryLabel": "云计算",
+      "id": "gh-1187709537",
+      "title": "dingtalk-workspace-cli",
+      "desc": "【人工智能】DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
       "source": "GitHub · Go",
-      "date": "2026-07-16",
-      "url": "https://github.com/zalando/skipper",
-      "stars": 3298
+      "date": "2026-07-17",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
+      "stars": 2424
     },
     {
-      "id": "gh-43723161",
-      "title": "helm",
-      "desc": "【云计算】The Kubernetes Package Manager",
-      "category": "cloud",
-      "categoryLabel": "云计算",
+      "id": "gh-983515771",
+      "title": "trpc-agent-go",
+      "desc": "【人工智能】A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
       "source": "GitHub · Go",
-      "date": "2026-07-16",
-      "url": "https://github.com/helm/helm",
-      "stars": 30013
+      "date": "2026-07-17",
+      "url": "https://github.com/trpc-group/trpc-agent-go",
+      "stars": 1556
     },
     {
-      "id": "gh-4585500",
-      "title": "cloudcmd",
-      "desc": "【前端开发】✨☁️📁✨ Cloud Commander file manager for the web with console and editor.",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "GitHub · JavaScript",
-      "date": "2026-07-16",
-      "url": "https://github.com/coderaiser/cloudcmd",
-      "stars": 2019
-    },
-    {
-      "id": "gh-512532105",
-      "title": "OldTwitter",
-      "desc": "【DevOps】Extension to return old Twitter layout from 2015 / 2018.",
+      "id": "gh-16089035",
+      "title": "wekan",
+      "desc": "【DevOps】The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is ...",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · JavaScript",
-      "date": "2026-07-16",
-      "url": "https://github.com/dimdenGD/OldTwitter",
-      "stars": 2596
+      "date": "2026-07-17",
+      "url": "https://github.com/wekan/wekan",
+      "stars": 20995
     },
     {
-      "id": "gh-668199241",
-      "title": "crm",
-      "desc": "【DevOps】Fully featured, open source CRM",
+      "id": "gh-216999971",
+      "title": "dumi",
+      "desc": "【DevOps】📖 Static Site Generator for component library development",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-17",
+      "url": "https://github.com/umijs/dumi",
+      "stars": 3797
+    },
+    {
+      "id": "gh-437900920",
+      "title": "tdesign",
+      "desc": "【DevOps】Enterprise Design System",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · Vue",
-      "date": "2026-07-16",
-      "url": "https://github.com/frappe/crm",
-      "stars": 2971
+      "date": "2026-07-17",
+      "url": "https://github.com/Tencent/tdesign",
+      "stars": 3965
     },
     {
-      "id": "gh-86272311",
-      "title": "kitsu",
-      "desc": "【DevOps】Collaboration Platform for Animation and VFX Productions",
-      "category": "devops",
-      "categoryLabel": "DevOps",
+      "id": "gh-988222683",
+      "title": "markstream-vue",
+      "desc": "【前端开发】Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, Ka...",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
       "source": "GitHub · Vue",
-      "date": "2026-07-16",
-      "url": "https://github.com/cgwire/kitsu",
-      "stars": 666
+      "date": "2026-07-17",
+      "url": "https://github.com/Simon-He95/markstream-vue",
+      "stars": 2672
     },
     {
-      "id": "hn-48924912",
-      "title": "Inkling: Our Open-Weights Model",
-      "desc": "【人工智能】Hacker News 热门讨论：Inkling: Our Open-Weights Model",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "points": 962,
-      "comments": 239
-    },
-    {
-      "id": "hn-48915953",
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "desc": "【前端开发】Hacker News 热门讨论：Stripe and Advent have made a joint offer to acquire PayPal – sources",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "points": 443,
-      "comments": 246
-    },
-    {
-      "id": "hn-48926590",
-      "title": "Grok Build is open source",
-      "desc": "【前端开发】Hacker News 热门讨论：Grok Build is open source",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "Hacker News",
-      "date": "2026-07-15",
-      "url": "https://github.com/xai-org/grok-build",
-      "points": 435,
-      "comments": 482
-    },
-    {
-      "id": "hn-48930454",
-      "title": "The lost joy of music piracy",
-      "desc": "【DevOps】Hacker News 热门讨论：The lost joy of music piracy",
+      "id": "hn-48935342",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "desc": "【DevOps】Hacker News 热门讨论：Kimi K3: Open Frontier Intelligence",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "Hacker News",
       "date": "2026-07-16",
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "points": 293,
-      "comments": 154
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "points": 1246,
+      "comments": 781
     },
     {
-      "id": "hn-48922434",
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "desc": "【DevOps】Hacker News 热门讨论：Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "id": "hn-48936426",
+      "title": "Microsoft Comic Chat is now open source",
+      "desc": "【DevOps】Hacker News 热门讨论：Microsoft Comic Chat is now open source",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "points": 286,
-      "comments": 187
+      "date": "2026-07-16",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "points": 571,
+      "comments": 124
     },
     {
-      "id": "hn-48928135",
-      "title": "SQLite should have (Rust-style) editions",
-      "desc": "【后端架构】Hacker News 热门讨论：SQLite should have (Rust-style) editions",
+      "id": "hn-48936584",
+      "title": "Decoy Font",
+      "desc": "【DevOps】Hacker News 热门讨论：Decoy Font",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "points": 432,
+      "comments": 103
+    },
+    {
+      "id": "hn-48933149",
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "desc": "【后端架构】Hacker News 热门讨论：How Our Rust-to-Zig Rewrite Is Going",
       "category": "backend",
       "categoryLabel": "后端架构",
       "source": "Hacker News",
-      "date": "2026-07-15",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "points": 266,
-      "comments": 105
+      "date": "2026-07-16",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "points": 424,
+      "comments": 230
+    },
+    {
+      "id": "hn-48936451",
+      "title": "NotebookLM is now Gemini Notebook",
+      "desc": "【人工智能】Hacker News 热门讨论：NotebookLM is now Gemini Notebook",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "points": 257,
+      "comments": 130
+    },
+    {
+      "id": "hn-48933310",
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "desc": "【人工智能】Hacker News 热门讨论：The LLM Critics Are Right. I Use LLMs Anyway",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
+      "date": "2026-07-16",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "points": 198,
+      "comments": 204
     }
   ],
-  "updatedAt": "2026-07-16T09:28:56.968Z",
+  "updatedAt": "2026-07-17T03:16:18.554Z",
   "totalCount": 30
 }
