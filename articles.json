@@ -7,7 +7,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -18,7 +18,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -29,7 +29,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -40,7 +40,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -50,7 +50,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -60,7 +60,7 @@
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -70,7 +70,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -80,7 +80,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "头条新闻",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://m.toutiao.com/group/7659698839352115753/"
     },
     {
@@ -90,7 +90,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "头条新闻",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://m.toutiao.com/group/7660126621034086921/"
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -110,7 +110,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -120,214 +120,214 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
-      "id": "gh-1152424073",
-      "title": "vellum-assistant",
-      "desc": "【人工智能】An AI Assistant that’s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · TypeScript",
-      "date": "2026-07-17",
-      "url": "https://github.com/vellum-ai/vellum-assistant",
-      "stars": 892
-    },
-    {
-      "id": "gh-891166919",
-      "title": "gt",
-      "desc": "【DevOps】Full-stack localization for every framework",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · TypeScript",
-      "date": "2026-07-17",
-      "url": "https://github.com/generaltranslation/gt",
-      "stars": 986
-    },
-    {
-      "id": "gh-131925641",
-      "title": "PipelineC",
-      "desc": "【DevOps】A C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language co...",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · Python",
-      "date": "2026-07-17",
-      "url": "https://github.com/JulianKemmerer/PipelineC",
-      "stars": 737
-    },
-    {
-      "id": "gh-477570603",
-      "title": "awesome-game-security",
-      "desc": "【网络安全】awesome game security [Welcome to PR]",
-      "category": "security",
-      "categoryLabel": "网络安全",
-      "source": "GitHub · Python",
-      "date": "2026-07-17",
-      "url": "https://github.com/gmh5225/awesome-game-security",
-      "stars": 3163
-    },
-    {
-      "id": "gh-508763694",
-      "title": "moq",
-      "desc": "【前端开发】Media over QUIC: Real-time latency at massive scale",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "GitHub · Rust",
-      "date": "2026-07-17",
-      "url": "https://github.com/moq-dev/moq",
-      "stars": 1403
-    },
-    {
-      "id": "gh-1169620429",
-      "title": "yoyo-evolve",
-      "desc": "【人工智能】A coding agent that evolves its own source, in public — 200 lines of Rust on day one, every commit since agent-written a...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Rust",
-      "date": "2026-07-17",
-      "url": "https://github.com/yologdev/yoyo-evolve",
-      "stars": 1846
-    },
-    {
-      "id": "gh-1187709537",
-      "title": "dingtalk-workspace-cli",
-      "desc": "【人工智能】DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Go",
-      "date": "2026-07-17",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "stars": 2424
-    },
-    {
-      "id": "gh-983515771",
-      "title": "trpc-agent-go",
-      "desc": "【人工智能】A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, a...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Go",
-      "date": "2026-07-17",
-      "url": "https://github.com/trpc-group/trpc-agent-go",
-      "stars": 1556
-    },
-    {
-      "id": "gh-16089035",
-      "title": "wekan",
-      "desc": "【DevOps】The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is ...",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · JavaScript",
-      "date": "2026-07-17",
-      "url": "https://github.com/wekan/wekan",
-      "stars": 20995
-    },
-    {
-      "id": "gh-216999971",
-      "title": "dumi",
-      "desc": "【DevOps】📖 Static Site Generator for component library development",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · JavaScript",
-      "date": "2026-07-17",
-      "url": "https://github.com/umijs/dumi",
-      "stars": 3797
-    },
-    {
-      "id": "gh-437900920",
-      "title": "tdesign",
-      "desc": "【DevOps】Enterprise Design System",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · Vue",
-      "date": "2026-07-17",
-      "url": "https://github.com/Tencent/tdesign",
-      "stars": 3965
-    },
-    {
-      "id": "gh-988222683",
-      "title": "markstream-vue",
-      "desc": "【前端开发】Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, Ka...",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "GitHub · Vue",
-      "date": "2026-07-17",
-      "url": "https://github.com/Simon-He95/markstream-vue",
-      "stars": 2672
-    },
-    {
-      "id": "hn-48935342",
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "desc": "【DevOps】Hacker News 热门讨论：Kimi K3: Open Frontier Intelligence",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "points": 1246,
-      "comments": 781
-    },
-    {
-      "id": "hn-48936426",
-      "title": "Microsoft Comic Chat is now open source",
-      "desc": "【DevOps】Hacker News 热门讨论：Microsoft Comic Chat is now open source",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "points": 571,
-      "comments": 124
-    },
-    {
-      "id": "hn-48936584",
-      "title": "Decoy Font",
-      "desc": "【DevOps】Hacker News 热门讨论：Decoy Font",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "points": 432,
-      "comments": 103
-    },
-    {
-      "id": "hn-48933149",
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "desc": "【后端架构】Hacker News 热门讨论：How Our Rust-to-Zig Rewrite Is Going",
+      "id": "gh-1121557390",
+      "title": "keeper.sh",
+      "desc": "【后端架构】Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365...",
       "category": "backend",
       "categoryLabel": "后端架构",
-      "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "points": 424,
-      "comments": 230
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-18",
+      "url": "https://github.com/ridafkih/keeper.sh",
+      "stars": 1200
     },
     {
-      "id": "hn-48936451",
-      "title": "NotebookLM is now Gemini Notebook",
-      "desc": "【人工智能】Hacker News 热门讨论：NotebookLM is now Gemini Notebook",
+      "id": "gh-244039737",
+      "title": "liftosaur",
+      "desc": "【DevOps】Weightlifting tracker app for coders",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-18",
+      "url": "https://github.com/astashov/liftosaur",
+      "stars": 628
+    },
+    {
+      "id": "gh-768641029",
+      "title": "enhanced-FaaS-in-China",
+      "desc": "【云计算】提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性   cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "GitHub · Python",
+      "date": "2026-07-18",
+      "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+      "stars": 3041
+    },
+    {
+      "id": "gh-671269505",
+      "title": "litellm",
+      "desc": "【人工智能】Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Python",
+      "date": "2026-07-18",
+      "url": "https://github.com/BerriAI/litellm",
+      "stars": 53890
+    },
+    {
+      "id": "gh-384219990",
+      "title": "warp",
+      "desc": "【人工智能】Warp is an agentic development environment, born out of the terminal.",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Rust",
+      "date": "2026-07-18",
+      "url": "https://github.com/warpdotdev/warp",
+      "stars": 63312
+    },
+    {
+      "id": "gh-1147866277",
+      "title": "BitFun",
+      "desc": "【人工智能】BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Rust",
+      "date": "2026-07-18",
+      "url": "https://github.com/GCWing/BitFun",
+      "stars": 1337
+    },
+    {
+      "id": "gh-774468912",
+      "title": "superfile",
+      "desc": "【DevOps】Pretty fancy and modern terminal file manager",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Go",
+      "date": "2026-07-18",
+      "url": "https://github.com/yorukot/superfile",
+      "stars": 18663
+    },
+    {
+      "id": "gh-1216785679",
+      "title": "DeepSeek-Reasonix",
+      "desc": "【人工智能】DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Go",
+      "date": "2026-07-18",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars": 27158
+    },
+    {
+      "id": "gh-75125125",
+      "title": "polis",
+      "desc": "【人工智能】:milky_way: Open Source AI for large scale open ended feedback",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-18",
+      "url": "https://github.com/compdemocracy/polis",
+      "stars": 1192
+    },
+    {
+      "id": "gh-320636477",
+      "title": "WebKit",
+      "desc": "【前端开发】Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS...",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-18",
+      "url": "https://github.com/WebKit/WebKit",
+      "stars": 10002
+    },
+    {
+      "id": "gh-906048251",
+      "title": "medicine",
+      "desc": "【DevOps】原研药列表",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Vue",
+      "date": "2026-07-18",
+      "url": "https://github.com/lvwzhen/medicine",
+      "stars": 1420
+    },
+    {
+      "id": "gh-882197782",
+      "title": "MoeKoeMusic",
+      "desc": "【前端开发】一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windo...",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · Vue",
+      "date": "2026-07-18",
+      "url": "https://github.com/MoeKoeMusic/MoeKoeMusic",
+      "stars": 5962
+    },
+    {
+      "id": "hn-48945241",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "desc": "【云计算】Hacker News 热门讨论：AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "category": "cloud",
+      "categoryLabel": "云计算",
+      "source": "Hacker News",
+      "date": "2026-07-17",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "points": 1064,
+      "comments": 646
+    },
+    {
+      "id": "hn-48947560",
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "desc": "【DevOps】Hacker News 热门讨论：First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-17",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "points": 382,
+      "comments": 237
+    },
+    {
+      "id": "hn-48947825",
+      "title": "The state of open source AI",
+      "desc": "【人工智能】Hacker News 热门讨论：The state of open source AI",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "points": 257,
-      "comments": 130
+      "date": "2026-07-17",
+      "url": "https://stateofopensource.ai/",
+      "points": 380,
+      "comments": 278
     },
     {
-      "id": "hn-48933310",
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "desc": "【人工智能】Hacker News 热门讨论：The LLM Critics Are Right. I Use LLMs Anyway",
+      "id": "hn-48949551",
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "desc": "【DevOps】Hacker News 热门讨论：Thanks HN for 15 years of support and helping me find my life's work",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-17",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "points": 375,
+      "comments": 34
+    },
+    {
+      "id": "hn-48952880",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "desc": "【人工智能】Hacker News 热门讨论：Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "Hacker News",
-      "date": "2026-07-16",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "points": 198,
+      "date": "2026-07-17",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "points": 317,
       "comments": 204
+    },
+    {
+      "id": "hn-48947717",
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "desc": "【DevOps】Hacker News 热门讨论：Kimi K3, and what we can still learn from the pelican benchmark",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-17",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "points": 280,
+      "comments": 149
     }
   ],
-  "updatedAt": "2026-07-17T03:16:18.554Z",
+  "updatedAt": "2026-07-18T02:53:33.317Z",
   "totalCount": 30
 }
