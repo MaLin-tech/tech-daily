@@ -7,7 +7,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -18,7 +18,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -29,7 +29,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -40,7 +40,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -50,7 +50,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -60,7 +60,7 @@
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -70,7 +70,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -80,7 +80,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "头条新闻",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://m.toutiao.com/group/7659698839352115753/"
     },
     {
@@ -90,7 +90,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "头条新闻",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://m.toutiao.com/group/7660126621034086921/"
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -110,7 +110,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -120,214 +120,214 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
-      "id": "gh-1121557390",
-      "title": "keeper.sh",
-      "desc": "【后端架构】Calendar sync tool & universal calendar MCP server. Aggregate, sync and control calendars on Google, Outlook, Office 365...",
+      "id": "gh-753001019",
+      "title": "OpenPanel",
+      "desc": "【前端开发】A highly customizable web hosting control panel built around containers",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-19",
+      "url": "https://github.com/stefanpejcic/OpenPanel",
+      "stars": 694
+    },
+    {
+      "id": "gh-1008713177",
+      "title": "qwen-code",
+      "desc": "【人工智能】An open-source AI coding agent that lives in your terminal.",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · TypeScript",
+      "date": "2026-07-19",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars": 26098
+    },
+    {
+      "id": "gh-1124295269",
+      "title": "QuantDinger",
+      "desc": "【人工智能】AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-ag...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Python",
+      "date": "2026-07-19",
+      "url": "https://github.com/brokermr810/QuantDinger",
+      "stars": 9748
+    },
+    {
+      "id": "gh-522158088",
+      "title": "CowAgent",
+      "desc": "【人工智能】Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowled...",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Python",
+      "date": "2026-07-19",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "stars": 46038
+    },
+    {
+      "id": "gh-1092839234",
+      "title": "zedis",
+      "desc": "【后端架构】Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.",
       "category": "backend",
       "categoryLabel": "后端架构",
-      "source": "GitHub · TypeScript",
-      "date": "2026-07-18",
-      "url": "https://github.com/ridafkih/keeper.sh",
-      "stars": 1200
+      "source": "GitHub · Rust",
+      "date": "2026-07-19",
+      "url": "https://github.com/vicanso/zedis",
+      "stars": 1926
     },
     {
-      "id": "gh-244039737",
-      "title": "liftosaur",
-      "desc": "【DevOps】Weightlifting tracker app for coders",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · TypeScript",
-      "date": "2026-07-18",
-      "url": "https://github.com/astashov/liftosaur",
-      "stars": 628
-    },
-    {
-      "id": "gh-768641029",
-      "title": "enhanced-FaaS-in-China",
-      "desc": "【云计算】提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性   cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "GitHub · Python",
-      "date": "2026-07-18",
-      "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
-      "stars": 3041
-    },
-    {
-      "id": "gh-671269505",
-      "title": "litellm",
-      "desc": "【人工智能】Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Python",
-      "date": "2026-07-18",
-      "url": "https://github.com/BerriAI/litellm",
-      "stars": 53890
-    },
-    {
-      "id": "gh-384219990",
-      "title": "warp",
-      "desc": "【人工智能】Warp is an agentic development environment, born out of the terminal.",
+      "id": "gh-1137711311",
+      "title": "CodeWhale",
+      "desc": "【人工智能】Open-source, community-driven agent harness",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · Rust",
-      "date": "2026-07-18",
-      "url": "https://github.com/warpdotdev/warp",
-      "stars": 63312
+      "date": "2026-07-19",
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "stars": 39920
     },
     {
-      "id": "gh-1147866277",
-      "title": "BitFun",
-      "desc": "【人工智能】BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · Rust",
-      "date": "2026-07-18",
-      "url": "https://github.com/GCWing/BitFun",
-      "stars": 1337
-    },
-    {
-      "id": "gh-774468912",
-      "title": "superfile",
-      "desc": "【DevOps】Pretty fancy and modern terminal file manager",
+      "id": "gh-384111310",
+      "title": "devlake",
+      "desc": "【DevOps】Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps too...",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · Go",
-      "date": "2026-07-18",
-      "url": "https://github.com/yorukot/superfile",
-      "stars": 18663
+      "date": "2026-07-19",
+      "url": "https://github.com/apache/devlake",
+      "stars": 3074
     },
     {
-      "id": "gh-1216785679",
-      "title": "DeepSeek-Reasonix",
-      "desc": "【人工智能】DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "category": "ai",
-      "categoryLabel": "人工智能",
+      "id": "gh-1036865607",
+      "title": "gh-aw",
+      "desc": "【DevOps】GitHub Agentic Workflows",
+      "category": "devops",
+      "categoryLabel": "DevOps",
       "source": "GitHub · Go",
-      "date": "2026-07-18",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "stars": 27158
+      "date": "2026-07-19",
+      "url": "https://github.com/github/gh-aw",
+      "stars": 4778
     },
     {
-      "id": "gh-75125125",
-      "title": "polis",
-      "desc": "【人工智能】:milky_way: Open Source AI for large scale open ended feedback",
+      "id": "gh-1263648864",
+      "title": "loop-engineering",
+      "desc": "【人工智能】Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch...",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · JavaScript",
-      "date": "2026-07-18",
-      "url": "https://github.com/compdemocracy/polis",
-      "stars": 1192
+      "date": "2026-07-19",
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "stars": 8499
     },
     {
-      "id": "gh-320636477",
-      "title": "WebKit",
-      "desc": "【前端开发】Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS...",
+      "id": "gh-1234968036",
+      "title": "tiny-world-builder",
+      "desc": "【前端开发】tiny-world-builder",
       "category": "frontend",
       "categoryLabel": "前端开发",
       "source": "GitHub · JavaScript",
-      "date": "2026-07-18",
-      "url": "https://github.com/WebKit/WebKit",
-      "stars": 10002
+      "date": "2026-07-19",
+      "url": "https://github.com/jasonkneen/tiny-world-builder",
+      "stars": 1460
     },
     {
-      "id": "gh-906048251",
-      "title": "medicine",
-      "desc": "【DevOps】原研药列表",
+      "id": "gh-1149419148",
+      "title": "EchoMusic",
+      "desc": "【DevOps】🎉 一个简约的第三方酷狗概念版音乐播放器",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · Vue",
-      "date": "2026-07-18",
-      "url": "https://github.com/lvwzhen/medicine",
-      "stars": 1420
+      "date": "2026-07-19",
+      "url": "https://github.com/hoowhoami/EchoMusic",
+      "stars": 2356
     },
     {
-      "id": "gh-882197782",
-      "title": "MoeKoeMusic",
-      "desc": "【前端开发】一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports  Windo...",
+      "id": "gh-524272985",
+      "title": "memories",
+      "desc": "【前端开发】Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
       "category": "frontend",
       "categoryLabel": "前端开发",
       "source": "GitHub · Vue",
+      "date": "2026-07-19",
+      "url": "https://github.com/pulsejet/memories",
+      "stars": 3807
+    },
+    {
+      "id": "hn-48956688",
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "desc": "【DevOps】Hacker News 热门讨论：LG monitors silently install software through Windows Update without consent",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
       "date": "2026-07-18",
-      "url": "https://github.com/MoeKoeMusic/MoeKoeMusic",
-      "stars": 5962
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "points": 1036,
+      "comments": 520
     },
     {
-      "id": "hn-48945241",
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "desc": "【云计算】Hacker News 热门讨论：AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "points": 1064,
-      "comments": 646
-    },
-    {
-      "id": "hn-48947560",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "desc": "【DevOps】Hacker News 热门讨论：First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "points": 382,
-      "comments": 237
-    },
-    {
-      "id": "hn-48947825",
-      "title": "The state of open source AI",
-      "desc": "【人工智能】Hacker News 热门讨论：The state of open source AI",
+      "id": "hn-48957779",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "desc": "【人工智能】Hacker News 热门讨论：GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://stateofopensource.ai/",
-      "points": 380,
-      "comments": 278
+      "date": "2026-07-18",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "points": 517,
+      "comments": 328
     },
     {
-      "id": "hn-48949551",
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "desc": "【DevOps】Hacker News 热门讨论：Thanks HN for 15 years of support and helping me find my life's work",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "points": 375,
-      "comments": 34
-    },
-    {
-      "id": "hn-48952880",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "desc": "【人工智能】Hacker News 热门讨论：Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "id": "hn-48956949",
+      "title": "What AI did to stackoverflow in a graph",
+      "desc": "【人工智能】Hacker News 热门讨论：What AI did to stackoverflow in a graph",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "points": 317,
-      "comments": 204
+      "date": "2026-07-18",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "points": 378,
+      "comments": 470
     },
     {
-      "id": "hn-48947717",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "desc": "【DevOps】Hacker News 热门讨论：Kimi K3, and what we can still learn from the pelican benchmark",
+      "id": "hn-48911793",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "desc": "【DevOps】Hacker News 热门讨论：Speech Recognition and TTS in less than 500kb",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "Hacker News",
-      "date": "2026-07-17",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "points": 280,
-      "comments": 149
+      "date": "2026-07-14",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "points": 312,
+      "comments": 33
+    },
+    {
+      "id": "hn-48959090",
+      "title": "If You Build It, They Will Come",
+      "desc": "【前端开发】Hacker News 热门讨论：If You Build It, They Will Come",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "points": 301,
+      "comments": 113
+    },
+    {
+      "id": "hn-48962983",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "desc": "【人工智能】Hacker News 热门讨论：Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
+      "date": "2026-07-18",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "points": 289,
+      "comments": 143
     }
   ],
-  "updatedAt": "2026-07-18T02:53:33.317Z",
+  "updatedAt": "2026-07-19T03:25:07.394Z",
   "totalCount": 30
 }
