@@ -1,259 +1,161 @@
 {
   "articles": [
     {
-      "id": "fb-1",
-      "title": "AI Agent 进入 L3 自治时代",
-      "desc": "【人工智能】行业彻底告别问答式被动大模型，进入主动规划、自主执行、长期记忆、多智能体协同的 L3 自治时代。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006",
-      "featured": true
-    },
-    {
-      "id": "fb-2",
-      "title": "统一原生多模态大模型发布",
-      "desc": "【人工智能】GPT-5.2 / Gemini 3 / Claude 3.5 统一基座模型发布，全部模态共享一套底层编码器。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006",
-      "featured": true
-    },
-    {
-      "id": "fb-3",
-      "title": "华为 Atlas 950 超节点发布",
-      "desc": "【云计算】华为 Atlas 950 超节点单柜 64 卡，最大扩展 8192 张 NPU，总算力大幅领先海外方案。",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006",
-      "featured": true
-    },
-    {
-      "id": "fb-4",
-      "title": "具身智能量产元年开启",
-      "desc": "【人工智能】2026 年为人形机器人量产元年，国内全年产量有望突破 10 万台。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-5",
-      "title": "端侧原生离线 AI 成为消费级卖点",
-      "desc": "【人工智能】2026 消费电子核心卖点是不上云、本地运行大模型。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-6",
-      "title": "AI Coding 全栈开发智能体",
-      "desc": "【DevOps】GitHub Copilot 新增图像/PDF 识图写代码，程序员效率提升 50% 以上。",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-7",
-      "title": "绿色低碳 AI 能碳智算中枢",
-      "desc": "【云计算】低功耗近存芯片、液冷集群降低数据中心能耗，实现可持续 AI 发展。",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-8",
-      "title": "WAIC 2026 世界人工智能大会",
-      "desc": "【人工智能】2026 世界人工智能大会将于 7 月在上海举办，超 300 款产品全球首发。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "头条新闻",
-      "date": "2026-07-20",
-      "url": "https://m.toutiao.com/group/7659698839352115753/"
-    },
-    {
-      "id": "fb-9",
-      "title": "云计算算力订单加码景气升温",
-      "desc": "【云计算】云计算成为大模型训练、AI Agent 运行的核心基础设施，算力订单加码。",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "头条新闻",
-      "date": "2026-07-20",
-      "url": "https://m.toutiao.com/group/7660126621034086921/"
-    },
-    {
-      "id": "fb-10",
-      "title": "无标注自监督数据生成突破",
-      "desc": "【人工智能】AI 自动生成仿真训练数据，无需人工标注，解决医疗影像稀缺痛点。",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-11",
-      "title": "Token 工厂革新算力商业模式",
-      "desc": "【云计算】算力厂商告别按算力时长收费，改为按 AI 产出 Token 计价。",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "fb-12",
-      "title": "AI 芯片三大路线并行发展",
-      "desc": "【云计算】近存计算 3D 堆叠芯片成为颠覆性架构，英伟达、国产 NPU、自研芯片三足鼎立。",
-      "category": "cloud",
-      "categoryLabel": "云计算",
-      "source": "51CTO",
-      "date": "2026-07-20",
-      "url": "https://blog.51cto.com/u_10819805/14749006"
-    },
-    {
-      "id": "gh-990586271",
-      "title": "kana-dojo",
-      "desc": "【前端开发】Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsor...",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "GitHub · TypeScript",
-      "date": "2026-07-20",
-      "url": "https://github.com/lingdojo/kana-dojo",
-      "stars": 2988
-    },
-    {
-      "id": "gh-1103012935",
-      "title": "openclaw",
-      "desc": "【人工智能】Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "id": "gh-960549454",
+      "title": "pdf-reader-mcp",
+      "desc": "【人工智能】📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenan...",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · TypeScript",
       "date": "2026-07-20",
-      "url": "https://github.com/openclaw/openclaw",
-      "stars": 383507
+      "url": "https://github.com/SylphxAI/pdf-reader-mcp",
+      "stars": 831,
+      "featured": true
     },
     {
-      "id": "gh-783558843",
-      "title": "WilmerAI",
-      "desc": "【人工智能】WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow yo...",
+      "id": "gh-896924279",
+      "title": "airi",
+      "desc": "【人工智能】💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, ...",
       "category": "ai",
       "categoryLabel": "人工智能",
-      "source": "GitHub · Python",
+      "source": "GitHub · TypeScript",
       "date": "2026-07-20",
-      "url": "https://github.com/SomeOddCodeGuy/WilmerAI",
-      "stars": 821
+      "url": "https://github.com/moeru-ai/airi",
+      "stars": 42875,
+      "featured": true
     },
     {
-      "id": "gh-39464018",
-      "title": "superset",
-      "desc": "【DevOps】Apache Superset is a Data Visualization and Data Exploration Platform",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · Python",
-      "date": "2026-07-20",
-      "url": "https://github.com/apache/superset",
-      "stars": 73890
-    },
-    {
-      "id": "gh-358917250",
-      "title": "arrow-rs",
-      "desc": "【后端架构】Official Rust implementation of Apache Arrow",
+      "id": "gh-1136669835",
+      "title": "observer-patch-holography",
+      "desc": "【后端架构】Observer Patch Holography is the observer-consistency theory-of-everything. No observer sees the whole world at once; ea...",
       "category": "backend",
       "categoryLabel": "后端架构",
-      "source": "GitHub · Rust",
+      "source": "GitHub · Python",
       "date": "2026-07-20",
-      "url": "https://github.com/apache/arrow-rs",
-      "stars": 3531
+      "url": "https://github.com/FloatingPragma/observer-patch-holography",
+      "stars": 560,
+      "featured": true
     },
     {
-      "id": "gh-1123610216",
-      "title": "vize",
-      "desc": "【前端开发】Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This alr...",
+      "id": "gh-1461942",
+      "title": "ihatemoney",
+      "desc": "【前端开发】A  shared budget web application",
       "category": "frontend",
       "categoryLabel": "前端开发",
-      "source": "GitHub · Rust",
+      "source": "GitHub · Python",
       "date": "2026-07-20",
-      "url": "https://github.com/ubugeeei-prod/vize",
-      "stars": 830
+      "url": "https://github.com/spiral-project/ihatemoney",
+      "stars": 1379,
+      "featured": false
     },
     {
-      "id": "gh-1182279853",
-      "title": "lingtai",
-      "desc": "【人工智能】LingTai AI",
+      "id": "gh-429039182",
+      "title": "always-online-stun",
+      "desc": "【人工智能】A list of publicly available STUN servers, refreshed every hour.",
       "category": "ai",
       "categoryLabel": "人工智能",
-      "source": "GitHub · Go",
+      "source": "GitHub · Rust",
       "date": "2026-07-20",
-      "url": "https://github.com/Lingtai-AI/lingtai",
-      "stars": 674
+      "url": "https://github.com/pradt2/always-online-stun",
+      "stars": 1003,
+      "featured": false
     },
     {
-      "id": "gh-21827146",
-      "title": "seaweedfs",
-      "desc": "【DevOps】SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle ...",
+      "id": "gh-362934123",
+      "title": "proxy-scraper-checker",
+      "desc": "【DevOps】HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Rust",
+      "date": "2026-07-20",
+      "url": "https://github.com/monosans/proxy-scraper-checker",
+      "stars": 1293,
+      "featured": false
+    },
+    {
+      "id": "gh-193171705",
+      "title": "triggers",
+      "desc": "【DevOps】Event triggering with Tekton!",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · Go",
       "date": "2026-07-20",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "stars": 33589
+      "url": "https://github.com/tektoncd/triggers",
+      "stars": 590,
+      "featured": false
     },
     {
-      "id": "gh-1162099055",
-      "title": "taste-skill",
-      "desc": "【人工智能】Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "GitHub · JavaScript",
-      "date": "2026-07-20",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "stars": 65299
-    },
-    {
-      "id": "gh-199310409",
-      "title": "openupm",
-      "desc": "【DevOps】OpenUPM - Open Source Unity Package Registry (UPM)",
+      "id": "gh-226368338",
+      "title": "evcc",
+      "desc": "【DevOps】solar charging ☀️🚘",
       "category": "devops",
       "categoryLabel": "DevOps",
+      "source": "GitHub · Go",
+      "date": "2026-07-20",
+      "url": "https://github.com/evcc-io/evcc",
+      "stars": 6969,
+      "featured": false
+    },
+    {
+      "id": "gh-102914328",
+      "title": "benchmarks",
+      "desc": "【前端开发】Fast and low overhead web framework fastify benchmarks",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
       "source": "GitHub · JavaScript",
       "date": "2026-07-20",
-      "url": "https://github.com/openupm/openupm",
-      "stars": 1886
+      "url": "https://github.com/fastify/benchmarks",
+      "stars": 628,
+      "featured": false
     },
     {
-      "id": "gh-313197356",
-      "title": "vue-pure-admin",
-      "desc": "【前端开发】全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+      "id": "gh-15085215",
+      "title": "openui5",
+      "desc": "【前端开发】OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of yo...",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "GitHub · JavaScript",
+      "date": "2026-07-20",
+      "url": "https://github.com/UI5/openui5",
+      "stars": 3301,
+      "featured": false
+    },
+    {
+      "id": "gh-1149419148",
+      "title": "EchoMusic",
+      "desc": "【DevOps】🎉 一个简约的第三方酷狗概念版音乐播放器",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "GitHub · Vue",
+      "date": "2026-07-20",
+      "url": "https://github.com/hoowhoami/EchoMusic",
+      "stars": 2365,
+      "featured": false
+    },
+    {
+      "id": "gh-93195165",
+      "title": "hackernews",
+      "desc": "【前端开发】HackerNews clone built with Nuxt.",
       "category": "frontend",
       "categoryLabel": "前端开发",
       "source": "GitHub · Vue",
       "date": "2026-07-20",
-      "url": "https://github.com/pure-admin/vue-pure-admin",
-      "stars": 20434
+      "url": "https://github.com/nuxt/hackernews",
+      "stars": 1436,
+      "featured": false
     },
     {
-      "id": "gh-988222683",
-      "title": "markstream-vue",
-      "desc": "【前端开发】Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, Ka...",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
-      "source": "GitHub · Vue",
+      "id": "hn-48973869",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "desc": "【人工智能】Hacker News 热门讨论：Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
       "date": "2026-07-20",
-      "url": "https://github.com/Simon-He95/markstream-vue",
-      "stars": 2705
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "points": 344,
+      "comments": 191,
+      "featured": false
     },
     {
       "id": "hn-48968606",
@@ -264,8 +166,9 @@
       "source": "Hacker News",
       "date": "2026-07-19",
       "url": "https://news.ycombinator.com/item?id=48968606",
-      "points": 1740,
-      "comments": 187
+      "points": 2162,
+      "comments": 228,
+      "featured": false
     },
     {
       "id": "hn-48966120",
@@ -276,20 +179,9 @@
       "source": "Hacker News",
       "date": "2026-07-19",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "points": 812,
-      "comments": 568
-    },
-    {
-      "id": "hn-48966713",
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "desc": "【DevOps】Hacker News 热门讨论：What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-19",
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "points": 430,
-      "comments": 200
+      "points": 867,
+      "comments": 589,
+      "featured": false
     },
     {
       "id": "hn-48966569",
@@ -300,20 +192,22 @@
       "source": "Hacker News",
       "date": "2026-07-19",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "points": 419,
-      "comments": 588
+      "points": 498,
+      "comments": 665,
+      "featured": false
     },
     {
-      "id": "hn-48971738",
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "desc": "【人工智能】Hacker News 热门讨论：AI advice made people less accurate but more confident – sudy",
-      "category": "ai",
-      "categoryLabel": "人工智能",
+      "id": "hn-48966713",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "desc": "【DevOps】Hacker News 热门讨论：What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "category": "devops",
+      "categoryLabel": "DevOps",
       "source": "Hacker News",
       "date": "2026-07-19",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "points": 299,
-      "comments": 165
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "points": 475,
+      "comments": 215,
+      "featured": false
     },
     {
       "id": "hn-48967256",
@@ -324,10 +218,63 @@
       "source": "Hacker News",
       "date": "2026-07-19",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "points": 286,
-      "comments": 188
+      "points": 303,
+      "comments": 201,
+      "featured": false
+    },
+    {
+      "id": "hn-48966984",
+      "title": "I joined the IndieWeb, here's what I learned",
+      "desc": "【前端开发】Hacker News 热门讨论：I joined the IndieWeb, here's what I learned",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "points": 194,
+      "comments": 95,
+      "featured": false
+    },
+    {
+      "id": "hn-48970894",
+      "title": "Orion Browser by Kagi",
+      "desc": "【前端开发】Hacker News 热门讨论：Orion Browser by Kagi",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://orionbrowser.com/",
+      "points": 183,
+      "comments": 118,
+      "featured": false
+    },
+    {
+      "id": "hn-48968063",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "desc": "【DevOps】Hacker News 热门讨论：Bananas sprout in Rayleigh Garden UK after 15 years",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "points": 154,
+      "comments": 114,
+      "featured": false
+    },
+    {
+      "id": "hn-48907390",
+      "title": "The Zen of Parallel Programming",
+      "desc": "【DevOps】Hacker News 热门讨论：The Zen of Parallel Programming",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-14",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "points": 153,
+      "comments": 19,
+      "featured": false
     }
   ],
-  "updatedAt": "2026-07-20T03:57:48.473Z",
-  "totalCount": 30
+  "updatedAt": "2026-07-20T08:12:51.414Z",
+  "totalCount": 22
 }

@@ -122,24 +122,40 @@ async function main() {
   ]);
 
   let articles = [];
-  articles.push(...getFallbackArticles());
 
+  // Fetch real data first (priority)
+  let realArticles = [];
   if (githubData.status === 'fulfilled') {
-    articles.push(...githubData.value);
+    realArticles.push(...githubData.value);
     console.log(`✅ GitHub: ${githubData.value.length} articles`);
   } else {
     console.log('⚠️ GitHub API failed, using fallback');
   }
 
   if (hnData.status === 'fulfilled') {
-    articles.push(...hnData.value);
+    realArticles.push(...hnData.value);
     console.log(`✅ HN: ${hnData.value.length} articles`);
   } else {
     console.log('⚠️ HN API failed, using fallback');
   }
 
+  // Add fallback only if real data is insufficient
+  if (realArticles.length < 12) {
+    const fallback = getFallbackArticles();
+    realArticles.push(...fallback);
+    console.log(`📝 Added ${fallback.length} fallback articles`);
+  }
+
+  // Sort by date descending (newest first)
+  realArticles.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+  // Mark top 3 as featured (will change daily as data updates)
+  realArticles.forEach((a, i) => {
+    a.featured = i < 3;
+  });
+
   // Limit to 30 articles
-  articles = articles.slice(0, 30);
+  articles = realArticles.slice(0, 30);
 
   const output = {
     articles,
