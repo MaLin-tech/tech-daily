@@ -7,7 +7,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -18,7 +18,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -29,7 +29,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006",
       "featured": true
     },
@@ -40,7 +40,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -50,7 +50,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -60,7 +60,7 @@
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -70,7 +70,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -80,7 +80,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "头条新闻",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://m.toutiao.com/group/7659698839352115753/"
     },
     {
@@ -90,7 +90,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "头条新闻",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://m.toutiao.com/group/7660126621034086921/"
     },
     {
@@ -100,7 +100,7 @@
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -110,7 +110,7 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
@@ -120,214 +120,214 @@
       "category": "cloud",
       "categoryLabel": "云计算",
       "source": "51CTO",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "url": "https://blog.51cto.com/u_10819805/14749006"
     },
     {
-      "id": "gh-753001019",
-      "title": "OpenPanel",
-      "desc": "【前端开发】A highly customizable web hosting control panel built around containers",
+      "id": "gh-990586271",
+      "title": "kana-dojo",
+      "desc": "【前端开发】Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsor...",
       "category": "frontend",
       "categoryLabel": "前端开发",
       "source": "GitHub · TypeScript",
-      "date": "2026-07-19",
-      "url": "https://github.com/stefanpejcic/OpenPanel",
-      "stars": 694
+      "date": "2026-07-20",
+      "url": "https://github.com/lingdojo/kana-dojo",
+      "stars": 2988
     },
     {
-      "id": "gh-1008713177",
-      "title": "qwen-code",
-      "desc": "【人工智能】An open-source AI coding agent that lives in your terminal.",
+      "id": "gh-1103012935",
+      "title": "openclaw",
+      "desc": "【人工智能】Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · TypeScript",
-      "date": "2026-07-19",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "stars": 26098
+      "date": "2026-07-20",
+      "url": "https://github.com/openclaw/openclaw",
+      "stars": 383507
     },
     {
-      "id": "gh-1124295269",
-      "title": "QuantDinger",
-      "desc": "【人工智能】AI quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-ag...",
+      "id": "gh-783558843",
+      "title": "WilmerAI",
+      "desc": "【人工智能】WilmerAI is one of the oldest LLM semantic routers. It uses multi-layer prompt routing and complex workflows to allow yo...",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · Python",
-      "date": "2026-07-19",
-      "url": "https://github.com/brokermr810/QuantDinger",
-      "stars": 9748
+      "date": "2026-07-20",
+      "url": "https://github.com/SomeOddCodeGuy/WilmerAI",
+      "stars": 821
     },
     {
-      "id": "gh-522158088",
-      "title": "CowAgent",
-      "desc": "【人工智能】Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowled...",
-      "category": "ai",
-      "categoryLabel": "人工智能",
+      "id": "gh-39464018",
+      "title": "superset",
+      "desc": "【DevOps】Apache Superset is a Data Visualization and Data Exploration Platform",
+      "category": "devops",
+      "categoryLabel": "DevOps",
       "source": "GitHub · Python",
-      "date": "2026-07-19",
-      "url": "https://github.com/zhayujie/CowAgent",
-      "stars": 46038
+      "date": "2026-07-20",
+      "url": "https://github.com/apache/superset",
+      "stars": 73890
     },
     {
-      "id": "gh-1092839234",
-      "title": "zedis",
-      "desc": "【后端架构】Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.",
+      "id": "gh-358917250",
+      "title": "arrow-rs",
+      "desc": "【后端架构】Official Rust implementation of Apache Arrow",
       "category": "backend",
       "categoryLabel": "后端架构",
       "source": "GitHub · Rust",
-      "date": "2026-07-19",
-      "url": "https://github.com/vicanso/zedis",
-      "stars": 1926
+      "date": "2026-07-20",
+      "url": "https://github.com/apache/arrow-rs",
+      "stars": 3531
     },
     {
-      "id": "gh-1137711311",
-      "title": "CodeWhale",
-      "desc": "【人工智能】Open-source, community-driven agent harness",
-      "category": "ai",
-      "categoryLabel": "人工智能",
+      "id": "gh-1123610216",
+      "title": "vize",
+      "desc": "【前端开发】Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This alr...",
+      "category": "frontend",
+      "categoryLabel": "前端开发",
       "source": "GitHub · Rust",
-      "date": "2026-07-19",
-      "url": "https://github.com/Hmbown/CodeWhale",
-      "stars": 39920
+      "date": "2026-07-20",
+      "url": "https://github.com/ubugeeei-prod/vize",
+      "stars": 830
     },
     {
-      "id": "gh-384111310",
-      "title": "devlake",
-      "desc": "【DevOps】Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps too...",
+      "id": "gh-1182279853",
+      "title": "lingtai",
+      "desc": "【人工智能】LingTai AI",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "GitHub · Go",
+      "date": "2026-07-20",
+      "url": "https://github.com/Lingtai-AI/lingtai",
+      "stars": 674
+    },
+    {
+      "id": "gh-21827146",
+      "title": "seaweedfs",
+      "desc": "【DevOps】SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle ...",
       "category": "devops",
       "categoryLabel": "DevOps",
       "source": "GitHub · Go",
-      "date": "2026-07-19",
-      "url": "https://github.com/apache/devlake",
-      "stars": 3074
+      "date": "2026-07-20",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "stars": 33589
     },
     {
-      "id": "gh-1036865607",
-      "title": "gh-aw",
-      "desc": "【DevOps】GitHub Agentic Workflows",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · Go",
-      "date": "2026-07-19",
-      "url": "https://github.com/github/gh-aw",
-      "stars": 4778
-    },
-    {
-      "id": "gh-1263648864",
-      "title": "loop-engineering",
-      "desc": "【人工智能】Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch...",
+      "id": "gh-1162099055",
+      "title": "taste-skill",
+      "desc": "【人工智能】Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "GitHub · JavaScript",
-      "date": "2026-07-19",
-      "url": "https://github.com/cobusgreyling/loop-engineering",
-      "stars": 8499
+      "date": "2026-07-20",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "stars": 65299
     },
     {
-      "id": "gh-1234968036",
-      "title": "tiny-world-builder",
-      "desc": "【前端开发】tiny-world-builder",
-      "category": "frontend",
-      "categoryLabel": "前端开发",
+      "id": "gh-199310409",
+      "title": "openupm",
+      "desc": "【DevOps】OpenUPM - Open Source Unity Package Registry (UPM)",
+      "category": "devops",
+      "categoryLabel": "DevOps",
       "source": "GitHub · JavaScript",
-      "date": "2026-07-19",
-      "url": "https://github.com/jasonkneen/tiny-world-builder",
-      "stars": 1460
+      "date": "2026-07-20",
+      "url": "https://github.com/openupm/openupm",
+      "stars": 1886
     },
     {
-      "id": "gh-1149419148",
-      "title": "EchoMusic",
-      "desc": "【DevOps】🎉 一个简约的第三方酷狗概念版音乐播放器",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "GitHub · Vue",
-      "date": "2026-07-19",
-      "url": "https://github.com/hoowhoami/EchoMusic",
-      "stars": 2356
-    },
-    {
-      "id": "gh-524272985",
-      "title": "memories",
-      "desc": "【前端开发】Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+      "id": "gh-313197356",
+      "title": "vue-pure-admin",
+      "desc": "【前端开发】全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
       "category": "frontend",
       "categoryLabel": "前端开发",
       "source": "GitHub · Vue",
-      "date": "2026-07-19",
-      "url": "https://github.com/pulsejet/memories",
-      "stars": 3807
+      "date": "2026-07-20",
+      "url": "https://github.com/pure-admin/vue-pure-admin",
+      "stars": 20434
     },
     {
-      "id": "hn-48956688",
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "desc": "【DevOps】Hacker News 热门讨论：LG monitors silently install software through Windows Update without consent",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "points": 1036,
-      "comments": 520
-    },
-    {
-      "id": "hn-48957779",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "desc": "【人工智能】Hacker News 热门讨论：GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "points": 517,
-      "comments": 328
-    },
-    {
-      "id": "hn-48956949",
-      "title": "What AI did to stackoverflow in a graph",
-      "desc": "【人工智能】Hacker News 热门讨论：What AI did to stackoverflow in a graph",
-      "category": "ai",
-      "categoryLabel": "人工智能",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "points": 378,
-      "comments": 470
-    },
-    {
-      "id": "hn-48911793",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "desc": "【DevOps】Hacker News 热门讨论：Speech Recognition and TTS in less than 500kb",
-      "category": "devops",
-      "categoryLabel": "DevOps",
-      "source": "Hacker News",
-      "date": "2026-07-14",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "points": 312,
-      "comments": 33
-    },
-    {
-      "id": "hn-48959090",
-      "title": "If You Build It, They Will Come",
-      "desc": "【前端开发】Hacker News 热门讨论：If You Build It, They Will Come",
+      "id": "gh-988222683",
+      "title": "markstream-vue",
+      "desc": "【前端开发】Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, Ka...",
       "category": "frontend",
       "categoryLabel": "前端开发",
-      "source": "Hacker News",
-      "date": "2026-07-18",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "points": 301,
-      "comments": 113
+      "source": "GitHub · Vue",
+      "date": "2026-07-20",
+      "url": "https://github.com/Simon-He95/markstream-vue",
+      "stars": 2705
     },
     {
-      "id": "hn-48962983",
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "desc": "【人工智能】Hacker News 热门讨论：Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "id": "hn-48968606",
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "desc": "【DevOps】Hacker News 热门讨论：Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "points": 1740,
+      "comments": 187
+    },
+    {
+      "id": "hn-48966120",
+      "title": "Qwen 3.8",
+      "desc": "【DevOps】Hacker News 热门讨论：Qwen 3.8",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "points": 812,
+      "comments": 568
+    },
+    {
+      "id": "hn-48966713",
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "desc": "【DevOps】Hacker News 热门讨论：What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "category": "devops",
+      "categoryLabel": "DevOps",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "points": 430,
+      "comments": 200
+    },
+    {
+      "id": "hn-48966569",
+      "title": "Claude Code uses Bun written in Rust now",
+      "desc": "【人工智能】Hacker News 热门讨论：Claude Code uses Bun written in Rust now",
       "category": "ai",
       "categoryLabel": "人工智能",
       "source": "Hacker News",
-      "date": "2026-07-18",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "points": 289,
-      "comments": 143
+      "date": "2026-07-19",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "points": 419,
+      "comments": 588
+    },
+    {
+      "id": "hn-48971738",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "desc": "【人工智能】Hacker News 热门讨论：AI advice made people less accurate but more confident – sudy",
+      "category": "ai",
+      "categoryLabel": "人工智能",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "points": 299,
+      "comments": 165
+    },
+    {
+      "id": "hn-48967256",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "desc": "【后端架构】Hacker News 热门讨论：Minecraft: Java Edition now uses SDL3",
+      "category": "backend",
+      "categoryLabel": "后端架构",
+      "source": "Hacker News",
+      "date": "2026-07-19",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "points": 286,
+      "comments": 188
     }
   ],
-  "updatedAt": "2026-07-19T03:25:07.394Z",
+  "updatedAt": "2026-07-20T03:57:48.473Z",
   "totalCount": 30
 }
