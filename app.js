@@ -224,7 +224,7 @@ function renderFeatured() {
   if (!featuredSection) return;
 
   featuredSection.innerHTML = featured.map((article, index) => `
-    <a href="${article.url}" class="featured-card" data-external="true" style="animation-delay: ${index * 0.1}s">
+    <a href="${article.url}" class="featured-card" data-external="true" target="_blank" rel="noopener noreferrer" style="animation-delay: ${index * 0.1}s">
       <div class="featured-badge">今日推荐</div>
       <div class="featured-category category-${article.category}">${article.categoryLabel}</div>
       <h3 class="featured-title">${escapeHtml(article.title)}</h3>
@@ -266,7 +266,7 @@ function renderArticles(category) {
           ${article.stars ? `<span class="article-meta">⭐ ${formatNumber(article.stars)}</span>` : ''}
           ${article.points ? `<span class="article-meta">▲ ${article.points}</span>` : ''}
         </div>
-        <a href="${article.url}" class="article-link" data-external="true">
+        <a href="${article.url}" class="article-link" data-external="true" target="_blank" rel="noopener noreferrer">
           阅读全文
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M5 12h14M12 5l7 7-7 7"/>
@@ -337,17 +337,19 @@ function setupEventListeners() {
   themeToggle.addEventListener('click', toggleTheme);
   retryBtn.addEventListener('click', fetchArticles);
 
-  // Handle all external link clicks via event delegation (fixes Chrome popup blocker)
+  // Handle all external link clicks via event delegation
+  // If window.open succeeds, prevent default to avoid double-open.
+  // If popup is blocked, let target="_blank" default behavior take over.
   document.addEventListener('click', function(e) {
     const link = e.target.closest('a[data-external="true"]');
     if (link && link.href) {
-      e.preventDefault();
-      e.stopPropagation();
-      // Use location.href as fallback if window.open is blocked
       const newWin = window.open(link.href, '_blank', 'noopener,noreferrer');
-      if (!newWin || newWin.closed) {
-        window.location.href = link.href;
+      if (newWin && !newWin.closed) {
+        e.preventDefault();
+        e.stopPropagation();
       }
+      // If window.open was blocked, do NOT prevent default —
+      // target="_blank" will open in a new tab without jumping current page.
     }
   });
 
